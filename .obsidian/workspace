@@ -11,7 +11,7 @@
           "state": {
             "file": "Manning/Functional Programming in C#, Second Edition/10 Working effectively with multi-argument functions.md",
             "mode": "source",
-            "source": false
+            "source": true
           }
         }
       }

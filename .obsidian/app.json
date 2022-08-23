@@ -1,1 +1,7 @@
-{}
+{
+  "livePreview": true,
+  "defaultViewMode": "source",
+  "promptDelete": false,
+  "trashOption": "none",
+  "newFileLocation": "current"
+}
