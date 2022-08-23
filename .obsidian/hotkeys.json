@@ -1,1 +1,11 @@
-{}
+{
+  "hotkeysplus-obsidian:insert-line-above": [],
+  "hotkeysplus-obsidian:duplicate-lines-up": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "D"
+    }
+  ]
+}
