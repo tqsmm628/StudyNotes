@@ -1,0 +1,137 @@
+{
+  "main": {
+    "id": "fe3e86283591eeec",
+    "type": "split",
+    "children": [
+      {
+        "id": "23cac087ffb32801",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Manning/Functional Programming in C#, Second Edition/10 Working effectively with multi-argument functions.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8a856b5646ae474a",
+    "type": "split",
+    "children": [
+      {
+        "id": "e62fefeb1f0c1cec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94683a32c8019578",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "cc317296652069c4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "13b7c3696aed72fa",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "2b30d704b1305fcf",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8d32539c9bb49bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce8f4bb2b5ecff72",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Manning/Functional Programming in C#, Second Edition/10 Working effectively with multi-argument functions.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8d5c10f6c1689810",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Manning/Functional Programming in C#, Second Edition/10 Working effectively with multi-argument functions.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b27e86c12e2aaf2f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bd57e76e66f1aa02",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Manning/Functional Programming in C#, Second Edition/10 Working effectively with multi-argument functions.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "23cac087ffb32801",
+  "lastOpenFiles": [
+    "Manning/Functional Programming in C#, Second Edition/__index__.md",
+    "Manning/Functional Programming in C#, Second Edition/10 Working effectively with multi-argument functions.md"
+  ]
+}
